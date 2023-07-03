@@ -1,11 +1,11 @@
 # Fetch Lab
 
-## Learning Goals
+# Learning Goals
 
 - Use `fetch()` to programmatically make a web request
 
 ## Introduction
-
+#
 In this lab, we'll be using `fetch()` to send web requests to the [Game of
 Thrones][got] API. We'll make a web request to the API, and in return we will
 receive a collection of data, structured like a nested JavaScript `Object`.
